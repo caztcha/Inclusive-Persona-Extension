@@ -33,7 +33,7 @@ Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下
 
 ## Contribution (ご協力)
 
-誤字脱字、作者の知識不足による不備、内容に関するご提案、などございましたら、Issue にコメントを登録していただけますと幸いです。
+誤字脱字、作者の知識不足による不備、内容に関するご提案、などございましたら、[Issue](https://github.com/caztcha/Inclusive-Persona-Extension/issues) にてコメントを登録していただけますと幸いです。
 
 ## License (ライセンス)
 
