@@ -6,7 +6,7 @@ Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下
 
 このツールは、ペルソナに対してコンテキスト (障害を持っている、高齢である、モバイルで利用している、など) を付加し、併せ見ることで、プロジェクト内にアクセシビリティの意識付けを促すことを目指すものです。
 
-印刷用途を想定した PDF 版 (inclusive_persona_extension.pdf) がメインですが、セマンティックなテキストとして markdown 版 (inclusive_persona_extension.md) も用意しています。
+印刷用途を想定した PDF 版 ([inclusive_persona_extension.pdf](https://github.com/caztcha/Inclusive-Persona-Extension/blob/master/inclusive_persona_extension.pdf)) がメインですが、セマンティックなテキストとして markdown 版 ([inclusive_persona_extension.md](https://github.com/caztcha/Inclusive-Persona-Extension/blob/master/inclusive_persona_extension.md)) も用意しています。
 
 ## How to Use (使いかた)
 
