@@ -2,51 +2,51 @@
 
 (English Edition / [日本語版](/ja/README.md))
 
-Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
+The Inclusive Persona Extension (hereafter referred to as "this tool") is a tool to facilitate accessibility considerations in the design of websites and web applications.
 
-ユーザー中心設計 (UCD) / 人間中心設計 (HCD) の手法を用いて UX デザインを行なう際、ターゲットユーザー像をペルソナして定義しますが、プロジェクト内の暗黙の共通認識として、たいていの場合そのペルソナは健常者であることでしょう。結果として、せっかくユーザー中心に設計プロセスを回しても、デザイン成果物からアクセシビリティへの配慮が抜け落ちてしまう、というのはままある話かと思います。
+When conducting UX design using User-Centered Design (UCD) / Human-Centered Design (HCD) methodologies, the target user is defined as a persona, but the unspoken common understanding within the project might be that the persona is usually a person with no disability. As a result, it's not uncommon for accessibility considerations to be left out of the design deliverables, even when the design process is user-centered.
 
-このツールは、ペルソナに対してコンテキスト (障害を持っている、高齢である、モバイルで利用している、など) を付加し、併せ見ることで、プロジェクト内にアクセシビリティの意識付けを促すことを目指すものです。
+This tool aims to add context (e.g., disabled, aged, used in mobile, etc.) to personas and, by looking at them together, promote awareness of accessibility within the project.
 
-原本は Google スライドで公開しています。必要に応じて、PowerPoint、PDF、テキストファイルとしてダウンロードしてお使いいただけます。
+The original document is available on Google Slides. You can download it as a PowerPoint, PDF, or text file as needed.
 
 - [Inclusive Persona Extension (Google Slides)](https://docs.google.com/presentation/d/10jdG622toXmQGq0bOFWRl3FwUYlQP7qas3G5fAT0b2U/edit?usp=sharing)
 
-PDF 版については、このリポジトリでも公開していますので、ご利用ください。
+The PDF version is also available in this repository for your convenience.
 
-- [インクルーシブなペルソナ拡張 (PDF)](inclusive_persona_extension_en.pdf)
+- [Inclusive Persona Extension (PDF)](inclusive_persona_extension_en.pdf)
 
-## How to Use (使いかた)
+## How to Use
 
-このツールには、8種類のコンテキストが含まれて、各々のコンテキストが1枚ずつのシートにまとまっています。
+This tool contains eight different contexts, each of which is organized into a single sheet.
 
-- 視覚障害 (全盲)
-- 視覚障害 (ロービジョン)
-- 色覚特性 (またはグレースケール印刷)
-- 聴覚障害 (または公共の場、非母語話者)
-- 運動障害
-- 認知/学習障害
-- 加齢
-- モバイル
+- Visual Disabilities (Blindness)
+- Visual Disabilities (Low Vision)
+- Color-Blindness / Grayscale Print
+- Auditory Disabilities / In a public / Non-Native Speaker
+- Motor Disabilities
+- Cognitive / Learning Disabilities
+- Aging
+- Mobile
 
-各シートは、以下の3つの要素で構成されています。(パタンランゲージの考えかたを採り入れ、context、problem(s)、solution(s) という構成で記述しています。)
+Each sheet consists of the following three elements: context, problem(s), and solution(s), based on the idea of pattern language.
 
-- 障害の種類や状況 (context)
-- ウェブ利用時の障壁 (problems)
-- 解決方法 (solutions)
+- Type of disability / context
+- Barriers to using the Web
+- Solutions
 
-各シートを、ペルソナと並べて配置して、いつでもプロジェクト関係者が参照できるようにしておくとよいでしょう。各シートのコンテキストのアイコンには、空白の円が付いています。ここにペルソナの顔写真を入れたり、ペルソナの名前を併記したりしておくことで、ペルソナとコンテキストの紐付けがわかりやすくなります。
+It is a good idea to place each sheet alongside the personas so that they can be referenced by project stakeholders at any time. Each sheet has a context icon with a blank circle. You can add an image of the persona or the persona's name to make it easier to see the connection between the persona and the context.
 
-主に以下の用途を想定しています。皆さんのプロジェクトで、お気軽にお使いいただけますと幸いです。
+This tool is mainly intended for the following uses. I hope you will feel free to use it in your projects.
 
-- UI 設計時に、随時立ち返って参照する要求仕様として。
-- UI 評価時に、障害者の立場に立ってウォークスルーする際のチートシートとして。 
-- アクセシビリティのワークショップにも。(ユーザー特性の観点から対象物を捉えるきっかけとして。)
+- As a requirement specification to refer back to at any time during UI design.
+- As a cheat sheet for a walk-through from the perspective of people with disabilities during UI evaluation. 
+- Also for accessibility workshops.
 
-## Contribution (ご協力)
+## Contribution
 
-誤字脱字、作者の知識不足による不備、内容に関するご提案、などございましたら、[Issue](https://github.com/caztcha/Inclusive-Persona-Extension/issues) にてコメントを登録していただけますと幸いです。
+If you find any typos, inadequacies due to lack of my knowledge, or have suggestions on the content, please post your comments in the [Issues](https://github.com/caztcha/Inclusive-Persona-Extension/issues) section.
 
-## License (ライセンス)
+## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />このツールは <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
