@@ -1,6 +1,6 @@
 # Inclusive Persona Extension
 
-(English Edition / [日本語版](/ja/README.md)))
+(English Edition / [日本語版](/ja/README.md))
 
 Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
 
