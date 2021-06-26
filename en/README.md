@@ -1,6 +1,6 @@
-# Inclusive Persona Extension (インクルーシブなペルソナ拡張)
+# Inclusive Persona Extension
 
-(日本語版 / [English Edition](/en/README.md))
+(English Edition / [日本語版](/ja/README.md)))
 
 Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
 
@@ -10,11 +10,11 @@ Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下
 
 原本は Google スライドで公開しています。必要に応じて、PowerPoint、PDF、テキストファイルとしてダウンロードしてお使いいただけます。
 
-- [インクルーシブなペルソナ拡張 (Google スライド)](https://docs.google.com/presentation/d/1mb-NuNiozQmpTJKkryCTp2Tbws4Xceukr4CbeD0xb4A/edit?usp=sharing)
+- [Inclusive Persona Extension (Google Slides)](https://docs.google.com/presentation/d/10jdG622toXmQGq0bOFWRl3FwUYlQP7qas3G5fAT0b2U/edit?usp=sharing)
 
 PDF 版については、このリポジトリでも公開していますので、ご利用ください。
 
-- [インクルーシブなペルソナ拡張 (PDF)](inclusive_persona_extension_ja.pdf)
+- [インクルーシブなペルソナ拡張 (PDF)](inclusive_persona_extension_en.pdf)
 
 ## How to Use (使いかた)
 
