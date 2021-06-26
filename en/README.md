@@ -53,4 +53,4 @@ If you find any typos, inadequacies due to lack of my knowledge, or have suggest
 
 ## Special Thanks
 
-- English edition translation by Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
+English Edition translation by Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))

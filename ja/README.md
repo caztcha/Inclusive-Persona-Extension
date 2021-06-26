@@ -53,4 +53,4 @@ PDF 版については、このリポジトリでも公開していますので�
 
 ## 謝辞 (Special Thanks)
 
-- [英語版](/en/)翻訳協力 : Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
+[英語版](/en/)翻訳協力 : Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
