@@ -1,6 +1,6 @@
 # Inclusive Persona Extension
 
-(English Edition / [日本語版](/ja/README.md))
+(English Edition / [日本語版](/ja/))
 
 The **Inclusive Persona Extension** (hereafter referred to as "this tool") is a tool to facilitate accessibility considerations in the design of websites and web applications.
 
