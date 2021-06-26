@@ -1,6 +1,6 @@
 # インクルーシブなペルソナ拡張
 
-(日本語版 / [English Edition](/en/README.md))
+(日本語版 / [English Edition](/en/))
 
 **インクルーシブなペルソナ拡張** (以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
 
@@ -53,4 +53,4 @@ PDF 版については、このリポジトリでも公開していますので�
 
 ## 謝辞 (Special Thanks)
 
-- 英語版翻訳協力 : Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
+- [英語版](/en/)翻訳協力 : Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
