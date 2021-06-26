@@ -2,7 +2,7 @@
 
 (English Edition / [日本語版](/ja/README.md))
 
-The Inclusive Persona Extension (hereafter referred to as "this tool") is a tool to facilitate accessibility considerations in the design of websites and web applications.
+The **Inclusive Persona Extension** (hereafter referred to as "this tool") is a tool to facilitate accessibility considerations in the design of websites and web applications.
 
 When conducting UX design using User-Centered Design (UCD) / Human-Centered Design (HCD) methodologies, the target user is defined as a persona, but the unspoken common understanding within the project might be that the persona is usually a person with no disability. As a result, it's not uncommon for accessibility considerations to be left out of the design deliverables, even when the design process is user-centered.
 
@@ -50,3 +50,7 @@ If you find any typos, inadequacies due to lack of my knowledge, or have suggest
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## Special Thanks
+
+- English edition translation by Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))

@@ -1,8 +1,8 @@
-# Inclusive Persona Extension (インクルーシブなペルソナ拡張)
+# インクルーシブなペルソナ拡張
 
 (日本語版 / [English Edition](/en/README.md))
 
-Inclusive Persona Extension (インクルーシブなペルソナ拡張 : 以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
+**インクルーシブなペルソナ拡張** (以下「このツール」) は、ウェブサイトやウェブアプリケーションの設計において、アクセシビリティへの配慮を進めやすくするためのツールです。
 
 ユーザー中心設計 (UCD) / 人間中心設計 (HCD) の手法を用いて UX デザインを行なう際、ターゲットユーザー像をペルソナして定義しますが、プロジェクト内の暗黙の共通認識として、たいていの場合そのペルソナは健常者であることでしょう。結果として、せっかくユーザー中心に設計プロセスを回しても、デザイン成果物からアクセシビリティへの配慮が抜け落ちてしまう、というのはままある話かと思います。
 
@@ -16,7 +16,7 @@ PDF 版については、このリポジトリでも公開していますので�
 
 - [インクルーシブなペルソナ拡張 (PDF)](inclusive_persona_extension_ja.pdf)
 
-## How to Use (使いかた)
+## 使いかた (How to Use)
 
 このツールには、8種類のコンテキストが含まれて、各々のコンテキストが1枚ずつのシートにまとまっています。
 
@@ -43,10 +43,14 @@ PDF 版については、このリポジトリでも公開していますので�
 - UI 評価時に、障害者の立場に立ってウォークスルーする際のチートシートとして。 
 - アクセシビリティのワークショップにも。
 
-## Contribution (ご協力)
+## ご協力について (Contribution)
 
 誤字脱字、作者の知識不足による不備、内容に関するご提案、などございましたら、[Issues](https://github.com/caztcha/Inclusive-Persona-Extension/issues) にてコメントを登録していただけますと幸いです。
 
-## License (ライセンス)
+## ライセンス (License)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />このツールは <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
+
+## 謝辞 (Special Thanks)
+
+- 英語版翻訳協力 : Kentaro Ide ([UXPRESS Consulting Inc.](https://uxpress.org/))
