@@ -37,7 +37,7 @@ Each sheet consists of the following three elements: context, problem(s), and so
 
 It is a good idea to place each sheet alongside the personas so that they can be referenced by project stakeholders at any time. Each sheet has a context icon with a blank circle. You can add an image of the persona or the persona's name to make it easier to see the connection between the persona and the context.
 
-<img width="600" alt="An example of added persona image" src="https://user-images.githubusercontent.com/17394690/123536793-51dd6800-d767-11eb-9c34-c56c48b11156.png" style="border:#929292 2px solid;">
+<img width="600" alt="An example of added persona image" src="https://user-images.githubusercontent.com/17394690/123536793-51dd6800-d767-11eb-9c34-c56c48b11156.png">
 
 This tool is mainly intended for the following uses. I hope you will feel free to use it in your projects.
 
