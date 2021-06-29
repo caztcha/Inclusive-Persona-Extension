@@ -8,7 +8,7 @@
 
 このツールは、ペルソナに対してコンテキスト (障害を持っている、高齢である、モバイルで利用している、など) を付加し、併せ見ることで、プロジェクト内にアクセシビリティの意識付けを促すことを目指すものです。
 
-原本は Google スライドで公開しています。必要に応じて、PowerPoint、PDF、テキストファイルとしてダウンロードしてお使いいただけます。
+原本は Google スライドで公開しています。必要に応じて、ご自身の Google ドライブにコピーしたり、あるいは、PowerPoint、PDF、テキストファイルとしてダウンロードしてお使いいただくことができます。
 
 - [インクルーシブなペルソナ拡張 (Google スライド)](https://docs.google.com/presentation/d/1mb-NuNiozQmpTJKkryCTp2Tbws4Xceukr4CbeD0xb4A/edit?usp=sharing)
 
