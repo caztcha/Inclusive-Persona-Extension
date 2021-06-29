@@ -8,7 +8,7 @@ When conducting UX design using User-Centered Design (UCD) / Human-Centered Desi
 
 This tool aims to add context (e.g., disabled, aged, used in mobile, etc.) to personas and, by looking at them together, promote awareness of accessibility within the project.
 
-The original document is available on Google Slides. You can download it as a PowerPoint, PDF, or text file as needed.
+The original document is available on Google Slides. You can copy it to your Google Drive, or download it as a PowerPoint, PDF, or text file, as needed.
 
 - [Inclusive Persona Extension (Google Slides)](https://docs.google.com/presentation/d/10jdG622toXmQGq0bOFWRl3FwUYlQP7qas3G5fAT0b2U/edit?usp=sharing)
 
