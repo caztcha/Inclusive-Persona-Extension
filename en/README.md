@@ -39,7 +39,7 @@ It is a good idea to place each sheet alongside the personas so that they can be
 
 <img width="1288" alt="An example of connection between the persona and the context" src="https://user-images.githubusercontent.com/17394690/123960174-f66edc80-d9e9-11eb-837a-316b4e32027e.png">
 
-This tool is mainly intended for the following uses. I hope you will feel free to use it in your projects.
+This tool is mainly intended for the following uses. I hope you will feel free to use it in your team or projects.
 
 - As a requirement specification to refer back to at any time during UI design.
 - As a cheat sheet for a walk-through from the perspective of people with disabilities during UI evaluation. 
