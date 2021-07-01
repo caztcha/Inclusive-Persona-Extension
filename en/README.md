@@ -37,7 +37,7 @@ Each sheet consists of the following three elements: context, problem(s), and so
 - Problems : Barriers to using the Web
 - Solutions
 
-<img width="878" alt="Visual Disability (Blindness) sheet which consists of context, problems, and solutions." src="https://user-images.githubusercontent.com/17394690/124067334-37600300-da75-11eb-9967-448cb5e39d26.png">
+<img width="878" alt="Each sheet consists of context, problems, and solutions." src="https://user-images.githubusercontent.com/17394690/124067334-37600300-da75-11eb-9967-448cb5e39d26.png">
 
 It is a good idea to place each sheet alongside the personas so that they can be referenced by project stakeholders at any time. Each sheet has a context icon with a blank circle. You can add an image of the persona or the persona's name to make it easier to see the connection between the persona and the context.
 
