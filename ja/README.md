@@ -37,7 +37,7 @@ PDF 版については、このリポジトリでも公開していますので�
 - ウェブ利用時の障壁 (problems)
 - 解決方法 (solutions)
 
-<img width="878" alt="各シートは Context、Problems、Solutions　で構成されている" src="https://user-images.githubusercontent.com/17394690/124069128-a722bd80-da76-11eb-9227-48ddc45ea853.png">
+<img width="878" alt="各シートは Context、Problems、Solutions　で構成されている" src="https://user-images.githubusercontent.com/17394690/124092803-36899a00-da92-11eb-892f-685ece491936.png">
 
 各シートを、ペルソナと並べて配置して、いつでもプロジェクト関係者が参照できるようにしておくとよいでしょう。各シートのコンテキストのアイコンには、空白の円が付いています。ここにペルソナの顔写真を入れたり、ペルソナの名前を併記したりしておくことで、ペルソナとコンテキストの紐付けがわかりやすくなります。
 
