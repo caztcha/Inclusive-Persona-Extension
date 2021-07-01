@@ -31,8 +31,8 @@ This tool contains eight different contexts, each of which is organized into a s
 
 Each sheet consists of the following three elements: context, problem(s), and solution(s), based on the idea of pattern language.
 
-- Type of disability / context
-- Barriers to using the Web
+- Context : Type of disability
+- Problems : Barriers to using the Web
 - Solutions
 
 It is a good idea to place each sheet alongside the personas so that they can be referenced by project stakeholders at any time. Each sheet has a context icon with a blank circle. You can add an image of the persona or the persona's name to make it easier to see the connection between the persona and the context.
