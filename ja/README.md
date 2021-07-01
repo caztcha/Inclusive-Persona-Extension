@@ -29,7 +29,7 @@ PDF 版については、このリポジトリでも公開していますので�
 - 加齢
 - モバイル
 
-<img width="878" alt="視覚障害 (全盲) のシート" src="https://user-images.githubusercontent.com/17394690/124068897-4c896180-da76-11eb-9d96-e1bd2474d1b6.png">
+<img width="878" alt="視覚障害 (全盲) のシート" src="https://user-images.githubusercontent.com/17394690/124089826-3d62dd80-da8f-11eb-8e9d-f88aafce812b.png">
 
 各シートは、以下の3つの要素で構成されています。(パタンランゲージの考えかたを採り入れ、context、problem(s)、solution(s) という構成で記述しています。)
 
