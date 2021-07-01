@@ -31,7 +31,7 @@ This tool contains eight different contexts, each of which is organized into a s
 
 <img width="878" alt="Visual Disability (Blindness) sheet" src="https://user-images.githubusercontent.com/17394690/124068603-c40ac100-da75-11eb-8618-d38504fb3dc5.png">
 
-Each sheet consists of the following three elements: context, problem(s), and solution(s), based on the idea of pattern language.
+Each sheet consists of the following three elements: context, problems, and solutions, based on the idea of pattern language.
 
 - Context : Type of disability
 - Problems : Barriers to using the Web
