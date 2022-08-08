@@ -23,7 +23,7 @@ This tool contains eight different contexts, each of which is organized into a s
 - Visual Disabilities (Blindness)
 - Visual Disabilities (Low Vision)
 - Color-Blindness / Grayscale Print
-- Auditory Disabilities / In a public / Non-Native Speaker
+- Auditory Disabilities / In a public
 - Motor Disabilities
 - Cognitive / Learning Disabilities
 - Aging
