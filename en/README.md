@@ -29,7 +29,7 @@ This tool contains eight different contexts, each of which is organized into a s
 - Aging
 - Mobile
 
-<img width="878" alt="Visual Disability (Blindness) sheet" src="https://user-images.githubusercontent.com/17394690/124068603-c40ac100-da75-11eb-8618-d38504fb3dc5.png">
+<img width="878" alt="Visual Disability (Blindness) sheet" src="https://user-images.githubusercontent.com/17394690/187400680-a09e7135-edcb-4e99-bb1c-4a3bb8dba6d5.png">
 
 Each sheet consists of the following three elements: context, problems, and solutions, based on the idea of pattern language.
 
@@ -37,7 +37,7 @@ Each sheet consists of the following three elements: context, problems, and solu
 - Problems : Barriers to using the Web
 - Solutions
 
-<img width="878" alt="Each sheet consists of context, problems, and solutions." src="https://user-images.githubusercontent.com/17394690/124067334-37600300-da75-11eb-9967-448cb5e39d26.png">
+<img width="878" alt="Each sheet consists of context, problems, and solutions." src="https://user-images.githubusercontent.com/17394690/187400595-ff57f3ef-6bf0-426b-b5a6-985cf3db0b10.png">
 
 It is a good idea to place each sheet alongside the personas so that they can be referenced by project members at any time. Each sheet has a context icon with a blank circle. You can add an image of the persona and the persona's name to make it easier to see the connection between the persona and the context.
 
