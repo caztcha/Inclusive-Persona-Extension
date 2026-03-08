@@ -12,9 +12,10 @@
 
 - [インクルーシブなペルソナ拡張 (Google スライド)](https://docs.google.com/presentation/d/1mb-NuNiozQmpTJKkryCTp2Tbws4Xceukr4CbeD0xb4A/edit?usp=sharing)
 
-PDF 版については、このリポジトリでも公開していますので、よろしければお使いください。
+また、PDF 版およびマークダウン版も、このリポジトリでも公開していますので、よろしければお使いください。
 
 - [インクルーシブなペルソナ拡張 (PDF)](inclusive_persona_extension_ja.pdf)
+- [インクルーシブなペルソナ拡張 (Markdown)](inclusive_persona_extension_ja.md)
 
 ## 使いかた (How to Use)
 
