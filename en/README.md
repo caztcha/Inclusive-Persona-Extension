@@ -12,9 +12,10 @@ The original document is available on Google Slides. You can copy it to your Goo
 
 - [Inclusive Persona Extension (Google Slides)](https://docs.google.com/presentation/d/10jdG622toXmQGq0bOFWRl3FwUYlQP7qas3G5fAT0b2U/edit?usp=sharing)
 
-The PDF version is also available in this repository for your convenience.
+The PDF and Markdown versions are also available in this repository for your convenience.
 
 - [Inclusive Persona Extension (PDF)](inclusive_persona_extension_en.pdf)
+- [Inclusive Persona Extension (Markdown)](inclusive_persona_extension_en.md)
 
 ## How to Use
 
