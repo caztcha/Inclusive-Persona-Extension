@@ -1,6 +1,5 @@
 # Inclusive Persona Extension (Markdown Version)
 
----
 
 ## Visual Disabilities (Blindness)
 
@@ -23,7 +22,6 @@
 - Use WAI-ARIA attributes and make sure a screen reader uesr is aware of dynamic context changes.
 - Do not start playing any sounds automatically when the page is loaded.
 
----
 
 ## Visual Disabilities (Low Vision)
 
@@ -53,7 +51,6 @@
 - Do not change content with accidental triggers such as a mouseover or keyboard focus.
 - Match the screen readers reading order with the visual layout.
 
----
 
 ## Color-Blindness / Grayscale Print
 
@@ -75,7 +72,6 @@
     - In figures (graphs, etc.), shapes other than colors should also be used as clues for visual identification.
 - Make content understandable / usable even when displaying it in grayscale.
 
----
 
 ## Auditory Disabilities / In a public
 
@@ -89,7 +85,6 @@
 - Provide transcripts for audio content.
 - Provide captions (subtitles) for video content with audio.
 
----
 
 ## Motor Disabilities
 
@@ -112,7 +107,6 @@
 - Describe the labels of links and buttons clearly to support voice input. Write in text and mark up appropriately.
 - Make sure that the page functions properly when the device is used in either "portrait" or "landscape" mode.
 
----
 
 ## Cognitive / Learning Disabilities
 
@@ -138,7 +132,6 @@
 - Make the font size and line spacing large enough to improve readability.
 - Provide multiple means of contact. (e.g. text chat as well as phone calls)
 
----
 
 ## Aging
 
@@ -161,7 +154,6 @@
 - Use clear and plain language when presenting text-based information.
 - Present headings to make it easier to understand the content overview.
 
----
 
 ## Mobile
 
@@ -184,5 +176,3 @@
 - Minimize the frequency of text input (typing).
 - Do not implement mouseover-dependent interactions.
 - Do not change content with accidental down-event.
-
----
