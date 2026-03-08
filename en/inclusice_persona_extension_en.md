@@ -1,5 +1,7 @@
 # Inclusive Persona Extension (Markdown Version)
 
+---
+
 ## Visual Disabilities (Blindness)
 
 ### Barriers to using the Web
